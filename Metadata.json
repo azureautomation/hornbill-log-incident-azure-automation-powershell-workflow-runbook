@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 6782,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-log-incident-azure-automation-powershell-workflow-runbook/master/Hornbill_RequestLogIncident_Workflow.ps1",
+    "DownloadCount": 712,
+    "Id": "Hornbill-Log-Incident-2d118a3b",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 431,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure Powershell Workflow Runbook to log a new Incident within Service Manager on a Hornbill Instance",
+    "Title": "Hornbill Log Incident - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-log-incident-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Microsoft Azure, Powershell, Service Manager"
+}
